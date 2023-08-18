@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './componentes/sections/Navbar'
+import Navbar from './componentes/sections/Navbar';
 import Presentation from './componentes/sections/Presentation';
 import Projects from './componentes/sections/Projects';
 import Skills from './componentes/sections/Skills';
